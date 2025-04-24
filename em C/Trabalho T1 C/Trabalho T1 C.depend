@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745467688 source:c:\users\reina\onedrive\desktop\trabalho t1\trabalho t1 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
